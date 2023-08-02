@@ -2,6 +2,10 @@
 
 #
 
+#
+
+<br>
+
 # A Little Bit About Me...
 
 I'm a web developer on the lookout for that first amazing job in the industry!
@@ -11,19 +15,25 @@ The web development world excites me, and I'm ready to rock my dream job with my
 
 #
 
-# My Websites
+#
 
-### [Web Development Portfolio ](https://webdev.thiagotavares.com/)
+<br>
+<br>
 
-You'll find my most recent projects [here.](https://webdev.thiagotavares.com/)
+# Links to my Portfolios and Social Media
 
-### [Creative Portfolio](https://thiagotavares.com/)
-
-My [Creative Portfolio](https://thiagotavares.com/) is getting old, but it was my first big challenge on web development. And I'll admit that a lot can be improved on the code I used here, however that only proves me that all my efforts are making a huge difference on my skills level up.
+<img src="icons/code.png" alt="Code-icon" height="25px">&nbsp;&nbsp;&nbsp; [Web Dev Portfolio](https://webdev.thiagotavares.com/) &nbsp;&nbsp;&nbsp;
+<img src="icons/code.png" alt="Code-icon" height="25px">&nbsp;&nbsp;&nbsp; [Creative Portfolio](https://thiagotavares.com/) &nbsp;&nbsp;&nbsp;
+<img src="icons/linkedin.png" alt="LinkedIn-icon" height="25px">&nbsp;&nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/ttavaresf/) &nbsp;&nbsp;&nbsp;
 
 #
 
-# Skill Set
+#
+
+<br>
+<br>
+
+# Skills Set
 
 #### CODING :.
 
@@ -47,7 +57,52 @@ My [Creative Portfolio](https://thiagotavares.com/) is getting old, but it was m
 
 <img src="icons/wordpress.png" alt="Wordpress-icon" height="25px">&nbsp;&nbsp;&nbsp; Wordpress &nbsp;&nbsp;&nbsp;
 <img src="icons/shellscript.png" alt="Shell-Script-icon" height="25px">&nbsp;&nbsp;&nbsp; Shell Script &nbsp;&nbsp;&nbsp;
+<img src="icons/figma.png" alt="Figma-icon" height="25px">&nbsp;&nbsp;&nbsp; Figma &nbsp;&nbsp;&nbsp;
 
 ##
 
-# Some Projects
+#### STUFF I USE TO WORK WITH BEFORE MY CODING JOYRNEY :.
+
+<img src="icons/photoshop.png" alt="Photoshop-icon" height="25px">&nbsp;&nbsp;&nbsp; Photoshop &nbsp;&nbsp;&nbsp;
+<img src="icons/illustrator.png" alt="Illustrator-icon" height="25px">&nbsp;&nbsp;&nbsp; Illustrator &nbsp;&nbsp;&nbsp;
+<img src="icons/premiere-pro.png" alt="Premiere-Pro-icon" height="25px">&nbsp;&nbsp;&nbsp; Premiere Pro &nbsp;&nbsp;&nbsp;
+
+##
+
+#
+
+<br>
+<br>
+
+# Some of My Projects
+
+### User Management Feature - React Project
+
+<img href="https://tavares-user-management-feature.netlify.app/" style="width: auto" src="images/projects/user-management.png" alt="User Management project image">
+
+A small react project I challenged my self to fix the foundations of my react learnings. You can check the [ Deployed version of it Here](https://tavares-user-management-feature.netlify.app/). And the project [Code here](https://github.com/T-Tavares/user-management-feature).
+
+#
+
+### Forkify - Javascript Project ( Udemy )
+
+<img href="https://forkify-tavares.netlify.app/" style="width: auto" src="images/projects/forkify-dskt.png" alt="Forkify Udemy project image">
+
+Desktop Version of the final project of the Udemy course [The Complete Javascript Course 2023](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648975?start=345#overview) by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
+
+<img href="https://forkify-tavares.netlify.app/" style="width: auto" src="images/projects/forkify.png" alt="Forkify Udemy project image">
+
+And here is the mobile tweaks I've done for the project. You can check the [ Deployed version of it Here](https://forkify-tavares.netlify.app/). And the project [Code here](https://github.com/T-Tavares/tavares-forkify-udemy-course).
+
+#
+
+<br>
+
+### Code Comment Titles
+
+<img href="https://t-tavares.github.io/Code-Comment-Titles/" style="width: auto" src="images/projects/code-comment-titles.png" alt="Forkify Udemy project image">
+
+Even though this project is simple and straightforward. It holds a special place for me since it was the first one I conceived and built entirely on my own.
+
+Surprisingly, I continue to use it to keep my projects neatly organized and well-managed.
+You can check the [ Deployed version of it Here](https://t-tavares.github.io/Code-Comment-Titles/). And the project [Code here](https://github.com/T-Tavares/Code-Comment-Titles).
