@@ -1,9 +1,7 @@
-<img src='./images/header-img.png' style='width: auto;'>
+[![header-img](images/header-img.png)](https://webdev.thiagotavares.com/)
 
-#
-
-#
-
+<br>
+<br>
 <br>
 
 # A Little Bit About Me...
@@ -25,6 +23,7 @@ The web development world excites me, and I'm ready to rock my dream job with my
 <img src="icons/code.png" alt="Code-icon" height="25px">&nbsp;&nbsp;&nbsp; [Web Dev Portfolio](https://webdev.thiagotavares.com/) &nbsp;&nbsp;&nbsp;
 <img src="icons/code.png" alt="Code-icon" height="25px">&nbsp;&nbsp;&nbsp; [Creative Portfolio](https://thiagotavares.com/) &nbsp;&nbsp;&nbsp;
 <img src="icons/linkedin.png" alt="LinkedIn-icon" height="25px">&nbsp;&nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/ttavaresf/) &nbsp;&nbsp;&nbsp;
+<img src="icons/instagram.png" alt="LinkedIn-icon" height="25px">&nbsp;&nbsp;&nbsp; [Instagram](https://www.instagram.com/dateuspulo/) &nbsp;&nbsp;&nbsp;
 
 #
 
@@ -78,7 +77,7 @@ The web development world excites me, and I'm ready to rock my dream job with my
 
 ### User Management Feature - React Project
 
-<img href="https://tavares-user-management-feature.netlify.app/" style="width: auto" src="images/projects/user-management.png" alt="User Management project image">
+[![user-management](images/projects/user-management.png)](https://tavares-user-management-feature.netlify.app/)
 
 A small react project I challenged my self to fix the foundations of my react learnings. You can check the [ Deployed version of it Here](https://tavares-user-management-feature.netlify.app/). And the project [Code here](https://github.com/T-Tavares/user-management-feature).
 
@@ -86,23 +85,33 @@ A small react project I challenged my self to fix the foundations of my react le
 
 ### Forkify - Javascript Project ( Udemy )
 
-<img href="https://forkify-tavares.netlify.app/" style="width: auto" src="images/projects/forkify-dskt.png" alt="Forkify Udemy project image">
+[![forkify](images/projects/forkify-dskt.png)](https://forkify-tavares.netlify.app/)
 
 Desktop Version of the final project of the Udemy course [The Complete Javascript Course 2023](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648975?start=345#overview) by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
 
-<img href="https://forkify-tavares.netlify.app/" style="width: auto" src="images/projects/forkify.png" alt="Forkify Udemy project image">
+[![forkify](images/projects/forkify.png)](https://forkify-tavares.netlify.app/)
 
 And here is the mobile tweaks I've done for the project. You can check the [ Deployed version of it Here](https://forkify-tavares.netlify.app/). And the project [Code here](https://github.com/T-Tavares/tavares-forkify-udemy-course).
 
 #
 
-<br>
-
 ### Code Comment Titles
 
-<img href="https://t-tavares.github.io/Code-Comment-Titles/" style="width: auto" src="images/projects/code-comment-titles.png" alt="Forkify Udemy project image">
+[![code-comment-titles](images/projects/code-comment-titles.png)](https://t-tavares.github.io/Code-Comment-Titles/)
 
 Even though this project is simple and straightforward. It holds a special place for me since it was the first one I conceived and built entirely on my own.
 
 Surprisingly, I continue to use it to keep my projects neatly organized and well-managed.
 You can check the [ Deployed version of it Here](https://t-tavares.github.io/Code-Comment-Titles/). And the project [Code here](https://github.com/T-Tavares/Code-Comment-Titles).
+
+<br>
+<br>
+<br>
+
+# Random Things about me
+
+I have a fine arts degree. And every now and then I still paint and sculpt stuff.( Nowadays only for fun.)
+
+[Check my old sculpture portfolio](https://sculptures.thiagotavares.com/) or even my old [Instagram](https://www.instagram.com/ttavares_/) for painting and drawings.
+
+[![sculpture](images/sculpture.png)](https://sculptures.thiagotavares.com/)
