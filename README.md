@@ -1,117 +1,146 @@
-[![header-img](images/header-img.png)](https://webdev.thiagotavares.com/)
+<picture width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="svgs/header-light.svg" width="100%">
+    <img src="svgs/header.svg" width="100%">
+</picture>
+
+<br/>
+<br/>
+
+### <p align="center"> 🇳🇿 🇧🇷 Hi there, I'm a web developer from Brazil, currently living in New Zealand. 🇧🇷 🇳🇿</p>
+
+<p align="justify">
+Although I'm a developer I also have some history with arts and design. And I believe that's what make me a strong . I can communicate with Web Design, Frontend and Backend. As I understand the pains and strenghts on all three areas.
+</p>
+<p align="justify">
+I'm a Javascript / Typescript fan boy, and I love developing on React and React Frameworks. Although I usually focus on JS/TS/NodeJS etc, I do feel pretty confident with CSS Frameworks such as tailwind and SASS (Probably my artist side talking through it).
+</p>
+<br/>
+
+<div align="center" width="100%">
+
+<a target="_blank" href="https://t-tavares.github.io/portfolio/">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Visit%20My%20Portfolio-gold?style=for-the-badge&logo=github%20sponsors&logoColor=white&labelColor=darkgoldenrod">
+        <img height="25" src="https://img.shields.io/badge/Visit%20My%20Portfolio-gold?style=for-the-badge&logo=github%20sponsors&logoColor=dark%20yellow&labelColor=white">
+    </picture>
+</a>
+<a target="_blank" href="mailto:thiago.tavares.freire@gmail.com">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/email%20me-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=darkred">
+        <img height="25" src="https://img.shields.io/badge/Email%20Me-red?style=for-the-badge&logo=gmail&labelColor=white"/>
+    </picture>
+</a>
+<a target="_blank" href="https://www.instagram.com/dateuspulo/">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/dateuspulo-crimson?style=for-the-badge&logo=instagram&logoColor=white&labelColor=maroon">
+        <img height="25" src="https://img.shields.io/badge/dateuspulo-crimson?style=for-the-badge&logo=instagram&labelColor=white">
+    </picture>
+</a>
+<a target="_blank" href="tel:02102463540">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Give%20Me%20A%20Call-slateblue?style=for-the-badge&logo=github%20sponsors&logoColor=white&labelColor=indigo">
+        <img height="25" src="https://img.shields.io/badge/Give%20Me%20a%20Call-indigo?style=for-the-badge&logo=github%20sponsors&logoColor=indigo&labelColor=white"/>
+    </picture>
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/ttavaresf">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ttavaresf-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%23004A8C">
+        <img height="25" src="https://img.shields.io/badge/ttavaresf-blue?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=white&color=blue"/>
+    </picture>
+</a>
+
+</div>
+<br/>
+<br/>
+
+---
+
+<div align="center">
+
+### Top Tier Skills
+
+</div>
+
+<div align="center">
+
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width=35 height=35>
+    <img align="center" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width=35 height=35>
+    <img align="center" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width=35 height=35>
+    <img align="center" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width=35 height=35>
+    <img align="center" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width=35 height=35>
+</div>
 
 <br>
-<br>
-<br>
 
-# A Little Bit About Me...
+---
 
-I'm a web developer on the lookout for that first amazing job in the industry!
-I've put in the hard work, honed my coding skills, and now it's time to showcase what I'm made of. I've got a portfolio filled with my coolest projects, and my passion for web development drives everything I do.
+<div align="center">
 
-The web development world excites me, and I'm ready to rock my dream job with my coding prowess!
+### Stuff I've Seen in School
 
-#
+</div>
 
-#
+<div align="center">
 
-<br>
-<br>
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width=35 height=35>
+<img align="center" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width=35 height=35 >
+<img align="center" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width=35 height=35 >
+<img align="center" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ab742751-b55b-43d7-8f49-9a67e293f67c" width=35 height=35 >
 
-# Links to my Portfolios and Social Media
+</div>
 
-<img src="icons/code.png" alt="Code-icon" height="25px">&nbsp;&nbsp;&nbsp; [Web Dev Portfolio](https://webdev.thiagotavares.com/) &nbsp;&nbsp;&nbsp;
-<img src="icons/code.png" alt="Code-icon" height="25px">&nbsp;&nbsp;&nbsp; [Creative Portfolio](https://thiagotavares.com/) &nbsp;&nbsp;&nbsp;
-<img src="icons/linkedin.png" alt="LinkedIn-icon" height="25px">&nbsp;&nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/ttavaresf/) &nbsp;&nbsp;&nbsp;
-<img src="icons/instagram.png" alt="LinkedIn-icon" height="25px">&nbsp;&nbsp;&nbsp; [Instagram](https://www.instagram.com/dateuspulo/) &nbsp;&nbsp;&nbsp;
+---
 
-#
+<div align="center">
 
-#
+### Things I Want to Learn/Improve at the Moment
 
-<br>
-<br>
+</div>
 
-# Skills Set
+<div align="center">
 
-#### CODING :.
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width=35 height=35 >
+<img align="center" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width=35 height=35 >
 
-<img src="icons/git.png" alt="Git-icon" height="25px"> &nbsp;&nbsp;&nbsp; Git &nbsp;&nbsp;&nbsp;
-<img src="icons/github.png" alt="GitHub-icon" height="25px">&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;
-<img src="icons/vscode.png" alt="VisualStudioCode-icon" height="25px">&nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp;
+</div>
 
-##
+<!-- USEFULL LINKS / RESOURCES -->
 
-#### WEB DEVELOPMENT :.
+<!-- If you're inspired by my profile readme.md, the links below helped me to build it. I hope they help you too 😁  -->
 
-<img src="icons/javascript.png" alt="Javascript-icon" height="25px">&nbsp;&nbsp;&nbsp; Javascript &nbsp;&nbsp;&nbsp;
-<img src="icons/html.png" alt="HTML-icon" height="25px">&nbsp;&nbsp;&nbsp; HTML &nbsp;&nbsp;&nbsp;
-<img src="icons/css.png" alt="CSS-icon" height="25px">&nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp;
-<img src="icons/sass.png" alt="SASS-icon" height="25px">&nbsp;&nbsp;&nbsp; SASS &nbsp;&nbsp;&nbsp;
-<img src="icons/react.png" alt="React-icon" height="25px">&nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp;
+<!--
 
-##
+ARTICLES
+https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/
 
-#### THINGS I HAVE SOME KNOWLEDGE :.
 
-<img src="icons/wordpress.png" alt="Wordpress-icon" height="25px">&nbsp;&nbsp;&nbsp; Wordpress &nbsp;&nbsp;&nbsp;
-<img src="icons/shellscript.png" alt="Shell-Script-icon" height="25px">&nbsp;&nbsp;&nbsp; Shell Script &nbsp;&nbsp;&nbsp;
-<img src="icons/figma.png" alt="Figma-icon" height="25px">&nbsp;&nbsp;&nbsp; Figma &nbsp;&nbsp;&nbsp;
+ACTIONS
+https://shields.io/badges
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
-##
+ICONS
+https://github.com/marwin1991/profile-technology-icons/blob/main/README.md
+https://simpleicons.org/
 
-#### STUFF I USE TO WORK WITH BEFORE MY CODING JOYRNEY :.
+THEMES
+https://github.com/anuraghazra/github-readme-stats#responsive-card-theme
+https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/
 
-<img src="icons/photoshop.png" alt="Photoshop-icon" height="25px">&nbsp;&nbsp;&nbsp; Photoshop &nbsp;&nbsp;&nbsp;
-<img src="icons/illustrator.png" alt="Illustrator-icon" height="25px">&nbsp;&nbsp;&nbsp; Illustrator &nbsp;&nbsp;&nbsp;
-<img src="icons/premiere-pro.png" alt="Premiere-Pro-icon" height="25px">&nbsp;&nbsp;&nbsp; Premiere Pro &nbsp;&nbsp;&nbsp;
-
-##
-
-#
-
-<br>
-<br>
-
-# Some of My Projects
-
-### User Management Feature - React Project
-
-[![user-management](images/projects/user-management.png)](https://tavares-user-management-feature.netlify.app/)
-
-A small react project I challenged my self to fix the foundations of my react learnings. You can check the [ Deployed version of it Here](https://tavares-user-management-feature.netlify.app/). And the project [Code here](https://github.com/T-Tavares/user-management-feature).
-
-#
-
-### Forkify - Javascript Project ( Udemy )
-
-[![forkify](images/projects/forkify-dskt.png)](https://forkify-tavares.netlify.app/)
-
-Desktop Version of the final project of the Udemy course [The Complete Javascript Course 2023](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648975?start=345#overview) by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
-
-[![forkify](images/projects/forkify.png)](https://forkify-tavares.netlify.app/)
-
-And here is the mobile tweaks I've done for the project. You can check the [ Deployed version of it Here](https://forkify-tavares.netlify.app/). And the project [Code here](https://github.com/T-Tavares/tavares-forkify-udemy-course).
-
-#
-
-### Code Comment Titles
-
-[![code-comment-titles](images/projects/code-comment-titles.png)](https://t-tavares.github.io/Code-Comment-Titles/)
-
-Even though this project is simple and straightforward. It holds a special place for me since it was the first one I conceived and built entirely on my own.
-
-Surprisingly, I continue to use it to keep my projects neatly organized and well-managed.
-You can check the [ Deployed version of it Here](https://t-tavares.github.io/Code-Comment-Titles/). And the project [Code here](https://github.com/T-Tavares/Code-Comment-Titles).
-
-<br>
-<br>
-<br>
-
-# Random Things about me
-
-I have a fine arts degree. And every now and then I still paint and sculpt stuff.( Nowadays only for fun.)
-
-[Check my old sculpture portfolio](https://sculptures.thiagotavares.com/) or even my old [Instagram](https://www.instagram.com/ttavares_/) for painting and drawings.
-
-[![sculpture](images/sculpture.png)](https://sculptures.thiagotavares.com/)
+ -->
